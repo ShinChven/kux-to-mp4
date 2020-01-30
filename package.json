@@ -1,0 +1,25 @@
+{
+  "name": "kux-to-mp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "kux_to_mp4": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "email": "shinchven@gmail.com",
+    "name": "ShinChven"
+  },
+  "repository": {
+    "url": "https://github.com/ShinChven/kux-to-mp4.git",
+    "type": "git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
